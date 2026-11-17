@@ -2,7 +2,7 @@
 
 Analisis keuntungan dan margin sebuah perusahaan e-commerce fashion berdasarkan **kategori produk** dan **departemen produk** (Men dan Women), menggunakan Python dan Tableau.
 
-![Dashboard Profit & Margin Analysis](Dashboard Profit & Margin Analysis.png)
+![Dashboard Profit & Margin Analysis](dashboard/Dashboard%20Profit%20%26%20Margin%20Analysis.png)
 
 🔗 **Dashboard interaktif (Tableau):** [Lihat dashboard](https://public.tableau.com/app/profile/ahmad.malik.ibrahim6201/viz/DashboardProfitMarginAnalysisAhmadMalikIbrahim/Dashboard1?publish=yes)
 
@@ -72,9 +72,11 @@ Perusahaan disarankan menjaga ketersediaan **Outerwear & Coats** dan **Suits & S
 
 ```
 Profit-And-Margin-Analysis/
+├── dashboard/
+│   ├── Dashboard Profit & Margin Analysis Ahmad Malik Ibrahim.twbx  # File Tableau
+│   └── Dashboard Profit & Margin Analysis.png                       # Tampilan dashboard
 ├── Profit___Margin_Analysis_Ahmad_Malik_Ibrahim.ipynb          # Notebook analisis
 ├── Presentasi_Profit___Margin_Analysis_Ahmad_Malik_Ibrahim.pptx # Presentasi
-├── Dashboard_Profit___Margin_Analysis.png                      # Tampilan dashboard
 └── README.md
 ```
 
